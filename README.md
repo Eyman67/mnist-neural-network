@@ -1,9 +1,8 @@
 # MNIST Handwritten Digit Recognition
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![NumPy](https://img.shields.io/badge/numpy-1.21+-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)
-
+<!-- morchidy -->
 A complete implementation of a feedforward neural network trained with stochastic gradient descent to classify handwritten digits from the MNIST dataset.
 
 ## Features

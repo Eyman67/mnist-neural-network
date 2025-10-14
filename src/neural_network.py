@@ -175,3 +175,4 @@ class NeuralNetwork:
         self.biases = model_data['biases']
         self.num_layers = len(self.sizes)
         print(f"Model loaded from {filename}")
+#morchidy

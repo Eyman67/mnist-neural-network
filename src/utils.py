@@ -107,3 +107,4 @@ def plot_sample_predictions(network, test_images: np.ndarray,
     
     plt.tight_layout()
     plt.show()
+#morchidy

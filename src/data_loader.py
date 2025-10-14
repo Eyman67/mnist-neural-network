@@ -185,3 +185,4 @@ class MNISTLoader:
         print(f"  Test labels: {test_labels.shape}")
         
         return (train_images, train_labels), (test_images, test_labels)
+#morchidy
